@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\Downloads\\agit\\Wpf Framework\\Wpf Framework.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\WPF-Framework-Poltek\\Wpf Framework\\Wpf Framework.csproj",
       "projectName": "Wpf Framework",
-      "projectPath": "C:\\Users\\student\\Downloads\\agit\\Wpf Framework\\Wpf Framework.csproj",
+      "projectPath": "C:\\Users\\student\\Source\\Repos\\WPF-Framework-Poltek\\Wpf Framework\\Wpf Framework.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\Downloads\\agit\\Wpf Framework\\obj\\",
+      "outputPath": "C:\\Users\\student\\Source\\Repos\\WPF-Framework-Poltek\\Wpf Framework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
