@@ -26,12 +26,13 @@ namespace Wpf_Framework
         }
 
         string nama = "";
-
+        string jurusan = "";
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             nama = txtNama.Text;
-            MessageBox.Show("Nama Saya : " + nama);
+            jurusan = txtJurusan.Text;
+            MessageBox.Show("Nama Saya : " + nama + "\n" + "Jurusan Saya : " + jurusan);
         }
     }
 }

@@ -9,6 +9,7 @@
     <Grid>
         <Label Content="Rizky Mulia P&#xD;&#xA;Anggun Harlisa" HorizontalAlignment="Left" Margin="153,60,0,0" VerticalAlignment="Top" FontSize="48"/>
         <Button Content="Tekan Saya" HorizontalAlignment="Left" Margin="203,287,0,0" VerticalAlignment="Top" Click="Button_Click"/>
-        <TextBox x:Name="txtNama" Text="Isi Nama" Width="200" Height="20" HorizontalAlignment="Left" Margin="170"> </TextBox>
+        <TextBox x:Name="txtNama" Text="Isi Nama" Width="200" Height="20" HorizontalAlignment="Left" Margin="170"></TextBox>
+        <TextBox x:Name="txtJurusan" Text="Isi Jurusan" Width="200" Height="20" HorizontalAlignment="Left" Margin="400,170,0,172"/>
     </Grid>
 </Window>
